@@ -1,6 +1,6 @@
 {
     "name": "sergey-shtepsil-api/test",
-    "license": "Sergey Project",
+    "license": "SergeyProject",
     "description": "Демонстрационный пакет в рамках статьи о создании пакета composer",
     "authors": [
         {
