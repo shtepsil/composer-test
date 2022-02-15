@@ -1,0 +1,22 @@
+{
+    "name": "ctrlv/composer-package",
+    "description": "Демонстрационный пакет в рамках статьи о создании пакета composer",
+    "authors": [
+        {
+            "name": "ctrlv.me",
+            "email": "dev@ctrlv.me"
+        }
+    ],
+    "require": {
+        "php": ">=7.0.14"
+    },
+    "require-dev": {
+
+    },
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "api\\test\\": "src/"
+        }
+    }
+}
