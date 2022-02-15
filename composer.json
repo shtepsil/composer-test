@@ -1,5 +1,5 @@
 {
-    "name": "ctrlv/composer-package",
+    "name": "api/test",
     "description": "Демонстрационный пакет в рамках статьи о создании пакета composer",
     "authors": [
         {
