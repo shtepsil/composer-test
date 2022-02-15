@@ -4,8 +4,8 @@
     "description": "Демонстрационный пакет в рамках статьи о создании пакета composer",
     "authors": [
         {
-            "name": "ctrlv.me",
-            "email": "dev@ctrlv.me"
+            "name": "Sergey Brazhnikov",
+            "email": "akvarius_84@mail.ru"
         }
     ],
     "require": {
